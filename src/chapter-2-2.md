@@ -1,5 +1,4 @@
-Types of AI: natural language processing, machine learning, and deep learning
-=============================================================================================================================================================
+
 
 Artificial intelligence (AI) technology can be a powerful tool for enhancing customer experiences in small businesses. In this chapter, we will explore the different types of AI technology, including natural language processing, machine learning, and deep learning.
 

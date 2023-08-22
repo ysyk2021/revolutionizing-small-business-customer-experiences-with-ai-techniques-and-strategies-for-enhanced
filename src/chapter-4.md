@@ -1,5 +1,4 @@
-Chapter 3: Enhancing Customer Service with Chatbots
-===================================================
+
 
 In this chapter, we will explore how small businesses can enhance their customer service with the use of chatbots. Chatbots are AI-powered tools that can provide a range of customer support services and personalized recommendations. By automating routine tasks and providing personalized assistance to customers, chatbots can greatly improve the customer experience.
 
