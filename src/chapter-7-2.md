@@ -1,5 +1,4 @@
 
-
 As small businesses adopt artificial intelligence (AI) technology to enhance customer experiences, it's essential to address potential biases in AI algorithms. In this chapter, we will explore some of the potential biases that can occur in AI algorithms and strategies for addressing them.
 
 Types of Bias in AI Algorithms

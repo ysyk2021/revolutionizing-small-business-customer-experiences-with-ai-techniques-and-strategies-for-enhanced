@@ -1,5 +1,4 @@
 
-
 While artificial intelligence (AI) technology offers significant benefits for streamlining purchasing processes in small businesses, there are also potential limitations and ethical considerations that need to be addressed. In this chapter, we will explore some of the potential limitations and ethical considerations when using AI for improving purchasing processes.
 
 Limitations of AI for Purchasing Process Improvement

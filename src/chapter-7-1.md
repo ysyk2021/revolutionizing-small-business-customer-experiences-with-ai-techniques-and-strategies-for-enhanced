@@ -1,5 +1,4 @@
 
-
 As small businesses adopt artificial intelligence (AI) technology to enhance customer experiences, it's essential to address potential ethical considerations. In this chapter, we will explore some of the ethical considerations that need to be addressed when using AI for small business customer experiences.
 
 Privacy Concerns

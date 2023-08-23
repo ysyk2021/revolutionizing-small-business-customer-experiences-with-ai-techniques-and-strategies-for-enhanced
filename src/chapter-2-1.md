@@ -1,5 +1,4 @@
 
-
 Artificial intelligence (AI) technology has the potential to revolutionize the way small businesses operate and interact with their customers. In this chapter, we will explore what AI technology is and how it can enhance small business customer experiences.
 
 What is AI Technology?
