@@ -8,3 +8,7 @@ The chapters in this book will cover topics such as the use of machine learning 
 Overall, this book aims to provide small business owners and managers with practical insights and strategies for leveraging AI technologies to enhance customer experiences and drive sales. By adopting AI techniques and strategies, small businesses can compete more effectively with larger companies while upholding their values and ethics.
 
 MingHai Zheng is the founder of zhengpublishing.com and lives in Wuhan, China. His main publishing areas are business, management, self-help, computers and other emerging foreword fields.
+
+Please Buy Me a Coffee to support us if you think this book is valuable to you. click this link:
+
+https://www.buymeacoffee.com/minghaizheng
