@@ -1,5 +1,4 @@
-Chapter: Types of AI: Natural Language Processing, Machine Learning, and Deep Learning
-======================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 AI technology can be classified into different categories based on the type of intelligence it exhibits. In this chapter, we will discuss the three types of AI that are commonly used in small business customer experiences: natural language processing (NLP), machine learning (ML), and deep learning (DL).
 

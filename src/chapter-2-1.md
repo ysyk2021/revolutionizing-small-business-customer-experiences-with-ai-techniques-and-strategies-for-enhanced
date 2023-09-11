@@ -1,5 +1,4 @@
-Chapter: Explanation of AI Technology and its Capabilities for Small Business Customer Experiences
-==================================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Artificial Intelligence (AI) has revolutionized the way businesses operate, and small businesses can also benefit from AI technology to enhance their customer experiences. In this chapter, we will discuss the basics of AI technology and demonstrate its capabilities for small business customer experiences.
 

@@ -1,5 +1,4 @@
-Chapter: Discussion of Ethical Considerations When Using AI for Small Business Customer Experiences
-===================================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Ethical considerations play a crucial role in the adoption and implementation of AI techniques for small business customer experiences. As AI technology becomes more prevalent, it is essential for small businesses to understand and address the ethical implications of their AI systems. In this chapter, we will discuss several key ethical considerations to keep in mind when utilizing AI for small business customer experiences.
 

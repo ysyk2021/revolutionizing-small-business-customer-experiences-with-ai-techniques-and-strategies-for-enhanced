@@ -1,5 +1,4 @@
-Chapter: Ensuring Transparency and Accountability in AI Adoption for Small Business Customer Satisfaction
-=========================================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 AI adoption holds great potential for revolutionizing small business customer experiences and enhancing satisfaction. However, it is crucial to prioritize transparency and accountability to build trust with customers and ensure responsible AI implementation. In this chapter, we will explore strategies and best practices for ensuring transparency and accountability throughout the AI adoption process.
 

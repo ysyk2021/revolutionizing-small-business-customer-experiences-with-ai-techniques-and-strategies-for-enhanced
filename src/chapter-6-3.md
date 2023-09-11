@@ -1,5 +1,4 @@
-Chapter: Potential Limitations and Ethical Considerations in Using AI for Purchasing Process Improvement
-========================================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the potential limitations and ethical considerations that businesses should take into account when using AI for purchasing process improvement. While AI offers numerous benefits and opportunities, it is crucial to understand and address these limitations and ethical concerns to ensure responsible and fair use of AI technologies.
 
